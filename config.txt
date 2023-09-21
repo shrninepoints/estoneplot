@@ -1,0 +1,10 @@
+directory = /Users/macbookpro/projects/misc/estoneplot/t1 # This is a comment
+# This is another comment
+plot_title = Default Title $\Omega$
+eis_table_title = Default Table Title
+plot_x_label = Default x label
+plot_y_left_label = Default left y label
+plot_y_right_label = Default right y label
+prefactor_Zreal = 2
+prefactor_Zimg = 2.1
+prefactor_power = 1
